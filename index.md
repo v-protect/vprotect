@@ -1,22 +1,23 @@
-## Welcome to vProtect
+## Welcome to 甲盾
 
-### vProtect
-   vProtect 是一款致力于保护Arm芯片平台上的二进制程序的软件产品，是基于指令虚拟化技术对保护后的程序进行模拟运行;
+### 甲盾
+   甲盾 是一款致力于保护Arm芯片平台上的二进制程序的软件产品，是基于指令虚拟化技术对保护后的程序进行模拟运行;
 防止程序被攻击者动态调试分析和破解, 为客户提供安全服务减少攻击行为
 ### Change Log
-
-#### vProtect 4.0 (2022-02-18)
-Support IOS (MacO File Format) Arm64 Instruction
-
-#### vProtect 3.0 (2021-08-18)
-Support FreeRTOS (ELF File Format) Thumb-2 Instruction
-
-#### vProtect 2.0 (2021-06-18)
-Support Android/Ubuntu (ELF File Format) Arm64 Instruction
-
-#### vProtect 1.0 (2021-02-18)
-Support Android/Ubuntu (ELF File Format) Arm/Thumb/Thumb-2 Instruction
-
+#### 甲盾 3.4 (2022-10-01)
+支持树莓派系统 (ELF文件格式) Arm,Thumb,Thumb-2,Arm64 指令架构
+#### 甲盾 3.3 (2021-9-01)
+支持CentOS系统 (ELF文件格式) Arm,Thumb,Thumb-2,Arm64 指令架构
+#### 甲盾 3.2 (2021-08-01)
+支持Linux系统 (ELF文件格式) Arm,Thumb,Thumb-2,Arm64 指令架构
+#### 甲盾 3.1 (2021-07-01)
+支持Ubuntu系统(ELF文件格式) Arm,Thumb,Thumb-2,Arm64 指令架构
+#### 甲盾 3.0 (2021-05-01)
+支持FreeRTOS系统(ELF文件格式) Arm,Thumb,Thumb-2,Arm64 指令架构
+#### 甲盾 2.0 (2021-03-01)
+支持安卓系统 (ELF文件格式) Arm64 指令架构
+#### 甲盾 1.0 (2021-01-01)
+支持安卓系统(ELF文件格式) Arm,Thumb,Thumb-2 指令架构)
 
 
 ### Support or Contact
